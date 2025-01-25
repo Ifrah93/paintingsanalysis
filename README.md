@@ -1,1 +1,1 @@
-# paintingsanalysis
+# postgresql project paintingsanalysis
